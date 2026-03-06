@@ -7,17 +7,16 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=E91E63&center=true&vCenter=true&width=400&lines=Data+Structure" alt="Data Structure Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=E91E63&center=true&vCenter=true&width=400&lines=Full+Stack+Developer" alt="Data Structure Animation" />
 </div>
 
 <br />
 
 ### 👨‍💻 About Me
 
-* 🔭 I’m currently working on **[Insert your current project here]**.
-* 🌱 I’m currently learning **[Insert what you are studying/learning]**.
-* 👯 I’m looking to collaborate on **[Insert project types you want to join]**.
-* ⚡ Fun fact: **[Insert a cool fact about yourself!]**
+* 🔭 I’m currently working on **Mastering Data Structures and Algorithms in java.**.
+* 🌱 I’m currently learning **CyberSecurity**
+* ⚡ Fun fact: **Honey never spoils**
 
 <br />
 
