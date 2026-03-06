@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="![banner](https://github.com/user-attachments/assets/a503df75-fdb2-4e9f-90a3-def3938d9e27.jpg)" alt="Awaaz-123 - Developer Banner" width="100%" />
+  <img src="![banner](banner.jpg)" alt="Awaaz-123 - Developer Banner" width="100%" />
 </div>
+[banner]()
 
 
 <br />
