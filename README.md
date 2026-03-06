@@ -7,7 +7,8 @@
 <br />
 
 <div align="center">
-  <h2>Data Structure</h2> </div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=E91E63&center=true&vCenter=true&width=400&lines=Data+Structure" alt="Data Structure Animation" />
+</div>
 
 <br />
 
