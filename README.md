@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="![banner](banner.jpg)" alt="Awaaz-123 - Developer Banner" width="100%" />
+  <img src="banner.jpg" alt="Awaaz-123 - Developer Banner" width="100%" />
 </div>
-[banner]()
+
 
 
 <br />
